@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **My IQ fluctuates between 5 and 500**
 
+## Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/66ef1130e80161c4cbf51910?variant=dark)](https://roadmap.sh)
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@veehimself) 
 
